@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pofexô</string>
+    <string name="msgAccount_cfc">Cartola FC Account</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblLogin">Username:</string>
+    <string name="lblPwd">Password:</string>
+    <string name="btnSend">Send</string>
+    <string name="hPwd">Enter your Password</string>
+    <string name="hUser">Enter your Username or Email</string>
+</resources>

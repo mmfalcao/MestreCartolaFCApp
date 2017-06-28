@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pofexô</string>
+    <string name="msgAccount_cfc">Acesso ao Cartola FC</string>
+    <string name="lblLogin">Usuário:</string>
+    <string name="lblPwd">Senha:</string>
+    <string name="btnSend">Enviar</string>
+    <string name="hPwd">Informe sua Senha</string>
+    <string name="hUser">Informe seu Usuário ou Email</string>
+    <string name="action_settings">Parametros</string>
+</resources>
